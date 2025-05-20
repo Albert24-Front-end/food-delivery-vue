@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "alias": "pizza plus",
+        "title": "Пицца плюс",
+        "time": 50,
+        "rating": 4.5,
+        "price": 900,
+        "type": "Пицца",
+        "image": "pizza-plus.jpg"
+    },
+    {
+        "id": 1,
+        "alias": "tanuki",
+        "title": "Тануки",
+        "time": 50,
+        "rating": 4.5,
+        "price": 900,
+        "type": "Тануки",
+        "image": "tanuki.jpg"
+    },
+    {
+        "id": 2,
+        "alias": "foodband",
+        "title": "FoodBand",
+        "time": 50,
+        "rating": 4.5,
+        "price": 900,
+        "type": "Пицца",
+        "image": "food-band.jpg"
+    },
+    {
+        "id": 3,
+        "alias": "glutton-pizza",
+        "title": "Жадина-пицца",
+        "time": 50,
+        "rating": 4.5,
+        "price": 900,
+        "type": "Пицца",
+        "image": "glutton-pizza.jpg"
+    },
+    {
+        "id": 4,
+        "alias": "point-meal",
+        "title": "Точка еды",
+        "time": 50,
+        "rating": 4.5,
+        "price": 900,
+        "type": "Пицца",
+        "image": "point-meal.jpg"
+    },
+    {
+        "id": 5,
+        "alias": "pizza-burger",
+        "title": "PizzaBurger",
+        "time": 50,
+        "rating": 4.5,
+        "price": 900,
+        "type": "Пицца",
+        "image": "pizza-burger.jpg"
+    }
+]
