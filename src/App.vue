@@ -1,17 +1,7 @@
-<script>
+<script setup>
+import { RouterView } from 'vue-router'
 
 
-export default {
-  name: "app",
-  components: {
-
-  },
-  data() {
-    return {
-
-    };
-  },
-};
 </script>
 
 <template>

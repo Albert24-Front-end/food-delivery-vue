@@ -1,16 +1,17 @@
 [
     {
-        "id": 0,
+        "id": 1,
         "alias": "pizza-plus",
         "title": "Пицца плюс",
         "time": 50,
         "rating": 4.5,
         "price": 900,
         "type": "Пицца",
-        "image": "pizza-plus.jpg"
+        "image": "pizza-plus.jpg",
+        "ingredients": "Моцарелла, пармезан, орегано, филе говядины, пепперони,перец триколор, грибы, лук, маслины, фирменный Маринара соус"
     },
     {
-        "id": 1,
+        "id": 2,
         "alias": "tanuki",
         "title": "Тануки",
         "time": 50,
@@ -20,7 +21,7 @@
         "image": "tanuki.jpg"
     },
     {
-        "id": 2,
+        "id": 3,
         "alias": "foodband",
         "title": "FoodBand",
         "time": 50,
@@ -30,7 +31,7 @@
         "image": "food-band.jpg"
     },
     {
-        "id": 3,
+        "id": 4,
         "alias": "glutton-pizza",
         "title": "Жадина-пицца",
         "time": 50,
@@ -40,7 +41,7 @@
         "image": "glutton-pizza.jpg"
     },
     {
-        "id": 4,
+        "id": 5,
         "alias": "point-meal",
         "title": "Точка еды",
         "time": 50,
@@ -50,7 +51,7 @@
         "image": "point-meal.jpg"
     },
     {
-        "id": 5,
+        "id": 6,
         "alias": "pizza-burger",
         "title": "PizzaBurger",
         "time": 50,

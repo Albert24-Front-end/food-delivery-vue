@@ -28,6 +28,7 @@
                         :type="rest.type"
                         :image="rest.image"
                         :link="`/${rest.alias}`"
+                        :id="rest.id"
                     >
                         <template v-slot:title><h4 class="products-card__description-title">{{ rest.title }}</h4></template>
                         <template v-slot:time><div class="products-card__description-bage">{{ rest.time }} мин</div></template>
